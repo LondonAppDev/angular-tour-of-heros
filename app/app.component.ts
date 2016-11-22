@@ -1,5 +1,8 @@
 import { Component } from '@angular/core';
 
+// Comments to the code
+// More pointless comments.
+
 export class Hero {
     id: number;
     name: string;
